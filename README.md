@@ -4,4 +4,6 @@
 
 ## O que esse projeto faz ?
 
-Acessa o [site](https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/atualizacao-do-rol-de-procedimentos), faz download do Anexo I e II em pdf e os compacta em formato ZIP.
+- Acessa o [site](https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/atualizacao-do-rol-de-procedimentos)
+- Faz download do Anexo I e II em pdf
+- Compacta os PDFs em formato ZIP
